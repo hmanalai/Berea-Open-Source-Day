@@ -6,3 +6,4 @@
 5. Alejandro Ramos
 6. Fleur Gahimbare
 7. Kayla Guerrero-Montiel
+8. Kyle Drummonds
