@@ -1,3 +1,4 @@
 ## Contributors Page
 1. Hila Manalai
-2. Belencinha 
+2. Isaac K. Narteh
+3. Belencinha 
